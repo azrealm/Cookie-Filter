@@ -17,9 +17,9 @@ Feel free to modify and distribute the CODES. You can change everything.
 
 **3.- ```pip install -r requirements.txt```**
 
-**4.- **Open __init__.py file | ```python __init__.py```**
+**4.- Open __init__.py file | ```python __init__.py```**
 
-**5.- **Select a option and filter all.**
+**5.- Select a option and filter all.**
 
 👏 👏 👏 
 

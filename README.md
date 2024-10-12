@@ -1,4 +1,4 @@
-# 🍪 C00KIE FILTER - VALUE 🍪
+# 🍪 C00KIE FILTER - A Z 🍪
 
 Feel free to modify and distribute the CODES. You can change everything.
 
@@ -33,4 +33,4 @@ Feel free to modify and distribute the CODES. You can change everything.
 
  **DISCORD** : https://discord.com/users/1160553696048975905
  
- **TELEGRAM** : https://t.me/anfetaamina
+ **TELEGRAM** : https://t.me/kerhell
